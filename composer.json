@@ -1,0 +1,9 @@
+{
+    "name": "mdsystems/jquery-ascolorpicker",
+    "description": "jquery-ascolorpicker forked from https://github.com/thecreation/jquery-asColorPicker",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.3"
+    },
+    "license": "GPLV3.0"
+}
